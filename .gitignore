@@ -1,0 +1,20 @@
+# Dart & Flutter klasörleri
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# OS sistem dosyaları
+.DS_Store
+
+# Log dosyaları
+*.log
+*.lock
+
+# Test & örnek cache
+test_output/
+example_output/

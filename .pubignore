@@ -1,0 +1,10 @@
+# Gereksiz test veya örnekler
+test/stopword_cleaner_test.dart
+test/punctuation_cleaner_test.dart
+
+# Yayına dahil edilmesini istemediğin özel dosyalar
+lib/cleaners/stopword_cleaner.dart
+
+# Derleme çıktısı ve notlar
+*.md~
+notes/
